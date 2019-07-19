@@ -44,7 +44,7 @@ $global:Bloatware = @(
     "Microsoft.OneConnect"
     "Microsoft.People"
     "Microsoft.Print3D"
-    "Microsoft.RemoteDesktop"                           # Issue 120
+   #"Microsoft.RemoteDesktop"                           # Issue 120
     "Microsoft.SkypeApp"
     "Microsoft.StorePurchaseApp"
     "Microsoft.Office.Todo.List"                        # Issue 77
@@ -94,12 +94,12 @@ $global:WhiteListedApps = @(
     "Microsoft.WindowsStore"                    # Issue 1
     "Microsoft.Windows.Photos"                  # Microsoft disabled/hid legacy photo viewer
     "CanonicalGroupLimited.UbuntuonWindows"     # Issue 10
-    "Microsoft.Xbox.TCUI"                       # Issue 25, 91  Many home users want to play games
-    "Microsoft.XboxApp"
-    "Microsoft.XboxGameOverlay"
-    "Microsoft.XboxGamingOverlay"               # Issue 25, 91  Many home users want to play games
-    "Microsoft.XboxIdentityProvider"            # Issue 25, 91  Many home users want to play games
-    "Microsoft.XboxSpeechToTextOverlay"
+   #"Microsoft.Xbox.TCUI"                       # Issue 25, 91  Many home users want to play games
+   #"Microsoft.XboxApp"
+   #"Microsoft.XboxGameOverlay"
+   #"Microsoft.XboxGamingOverlay"               # Issue 25, 91  Many home users want to play games
+   #"Microsoft.XboxIdentityProvider"            # Issue 25, 91  Many home users want to play games
+   #"Microsoft.XboxSpeechToTextOverlay"
     "Microsoft.MicrosoftStickyNotes"            # Issue 33  New functionality.
     "Microsoft.MSPaint"                         # Issue 32  This is Paint3D, legacy paint still exists in Windows 10
     "Microsoft.WindowsCamera"                   # Issue 65  New functionality.
