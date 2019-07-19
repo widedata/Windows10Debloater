@@ -167,7 +167,7 @@ ContactSupport.
 
 # Quick download link
 
-iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/fjMY1'))
 
 # Credits
 
