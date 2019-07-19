@@ -110,7 +110,6 @@ Fresh Paint,
 Get started,
 Microsoft Office Hub,
 Microsoft Solitaire Collection,
-Microsoft Sticky Notes,
 OneNote,
 OneConnect,
 People,
@@ -172,4 +171,4 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
 
 # Credits
 
-Thank you to a60wattfish, abulgatz, xsisbest, Damian, Vikingat-RAGE, and Reddit user /u/GavinEke for some of the suggestions and fixes that I have placed into my scripts. You all have done a fantastic job!
+Thanks to original win 10 debloater project https://github.com/Sycnex/Windows10Debloater
